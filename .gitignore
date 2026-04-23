@@ -1,0 +1,4 @@
+*.code-workspace
+tracker-keys.txt
+.env
+__pycache__/
